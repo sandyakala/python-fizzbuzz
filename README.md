@@ -1,2 +1,2 @@
 # python-fizzbuzz
-Python Fizzbuzz.
+Fizzbuzz using Python programming language.
